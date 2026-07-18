@@ -1,0 +1,6 @@
+symbol: GC
+contract_size_oz: 1
+timezone: America/Chicago
+
+risk:
+  max_position: 1
