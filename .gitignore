@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets / credentials (this repo is public — never commit real keys)
+secrets/
+credentials.json
+credentials.yaml
+*_credentials.*
+*.key
+*.pem
+*.p12
+*apikey*
+*api_key*
+config/*local*
+config/*secret*
